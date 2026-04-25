@@ -1,2 +1,0 @@
-# ayo-backend
-joj hackathon
